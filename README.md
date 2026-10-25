@@ -1,6 +1,6 @@
 # GPT代充 / ChatGPT Plus 国内充值指南（2026 年 10 月更新）
 
-这是一份面向中文用户的 ChatGPT 付费会员说明：Plus、Pro 100 / 200 / 500 的官方美元价和区别，国内为什么直接付不了款，"代充（订阅代付）"怎么挑，以及付款被拒、付了钱还显示免费版、续费失败、被扣两次钱等问题的排查，报错部分按 OpenAI 官方帮助中心逐条整理并附官方链接。作者：瑶瑶ai训练师；更新于 2026-10-17，2026-10-24 补充作者商城的价格快照、买前自查清单和"不卖课"澄清。本仓库是非官方整理，与 OpenAI 没有隶属关系，文中品牌名仅用于说明。
+这是一份面向中文用户的 ChatGPT 付费会员说明：Plus、Pro 100 / 200 / 500 的官方美元价和区别，国内为什么直接付不了款，"代充（订阅代付）"怎么挑，以及付款被拒、付了钱还显示免费版、续费失败、被扣两次钱等问题的排查，报错部分按 OpenAI 官方帮助中心逐条整理并附官方链接。作者：瑶瑶ai训练师；更新于 2026-10-17，2026-10-24 补充作者商城的价格快照、买前自查清单和"不卖课"澄清，2026-10-25 补全价格快照（Claude / Grok / Gemini）和作者介绍。本仓库是非官方整理，与 OpenAI 没有隶属关系，文中品牌名仅用于说明。
 
 **直接回答：** ChatGPT 官网只接受支持地区发行的银行卡等付款方式，国内银行卡、支付宝直接付不了。没有海外卡的人，常见做法是"代充"（订阅代付）：由卖家替你付款，把正规订阅的 Plus / Pro 开到你自己的账号上。
 
@@ -235,14 +235,14 @@ A：写作、搜索、画图偏 ChatGPT；长文和写代码很多人偏 Claude�
 
 ## 关于本仓库和作者
 
-本仓库由"瑶瑶ai训练师"整理，作者是做 AI 内容的自媒体博主，教程基于自己的使用和售后经验。与 OpenAI、Anthropic 没有隶属关系，文中品牌名仅用于说明。作者是谁、怎么交易、售后和退款规则，见 [瑶瑶ai训练师靠谱吗](https://kw.yaoyao.chat/guide/yaoyao-kaopu.html)。官方价格和权益以 OpenAI 官网为准。瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，本账号下只有文字教程仓库。
+本仓库由"瑶瑶ai训练师"整理，作者是做 AI 内容的自媒体博主，2023 年 10 月开始做 AI 科普短视频，全平台 25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，账号 ID 和截图见 [关于瑶瑶ai训练师](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html#jietu)）。教程基于自己的使用和售后经验。与 OpenAI、Anthropic 没有隶属关系，文中品牌名仅用于说明。作者是谁、怎么交易、售后和退款规则，见 [瑶瑶ai训练师靠谱吗](https://kw.yaoyao.chat/guide/yaoyao-kaopu.html)。官方价格和权益以 OpenAI 官网为准。瑶瑶没有发布过任何桌面软件、手机 App、浏览器插件或"账号切换器"，本账号下只有文字教程仓库。
 
 ## 在哪买、质保怎么算
 
 作者"瑶瑶ai训练师"自己经营一家 AI 会员代充商城，这里如实写明，读者可以据此判断本文立场。
 
 - **商城**：[kw.yaoyao.chat](https://kw.yaoyao.chat/)（瑶瑶ai训练师 · AI会员充值）；官网 [www.yaoyao.chat](https://www.yaoyao.chat/)。
-- **能买什么**：ChatGPT Plus（一个月卡密自助开通，1～3 分钟到账；十二个月人工开通）、ChatGPT Pro、Claude Pro / Max、Gemini Pro、Grok 会员。都是充到你自己的账号，不卖成品号、不拼车。
+- **能买什么**：ChatGPT Plus（一个月卡密自助开通，1～3 分钟到账；十二个月人工开通）、ChatGPT Pro、Claude Pro / Max、Gemini Pro（18 个月）、Grok Premium。都是充到你自己的账号，不卖成品号、不拼车。
 - **价格**：以商城页面为准。各档价格和官方价对比见 [ChatGPT Plus 多少钱一个月](https://kw.yaoyao.chat/guide/chatgpt-plus-price.html)、[Claude 会员多少钱](https://kw.yaoyao.chat/guide/claude-price.html)、[代充怎么选（对比表）](https://kw.yaoyao.chat/guide/daichong-duibi.html)。
 - **质保**（全部商品通用，原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)）：
   1. **没开通成功**：卡密不消耗、自动退回，可以重新提交；不想再试的，联系微信退款。
@@ -251,15 +251,19 @@ A：写作、搜索、画图偏 ChatGPT；长文和写代码很多人偏 Claude�
 - **售后**：只找瑶瑶本人微信 yao77380。
 - **怎么分辨真假**：瑶瑶的网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个；其他自称"瑶瑶"的网站、账号或软件都不是本人。
 
-### 价格快照（2026-10-24，人民币）
+### 价格快照（2026-10-25，人民币）
 
 | 商品 | 本店价格 | 开通方式 |
 |---|---|---|
 | ChatGPT Plus 一个月 | ¥129 | 卡密自助开通，1～3 分钟 |
 | ChatGPT Plus 十二个月 | ¥1548 | 人工开通 |
 | ChatGPT Pro 一个月（5X / 10X / 25X） | ¥699 / ¥1399 / ¥3499 | 人工开通 |
+| Claude Pro 一个月 | ¥159 | 人工开通 |
+| Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 人工开通 |
+| Grok Premium 一个月 | ¥199 | 人工开通 |
+| Gemini Pro 18 个月 | ¥99 | 人工开通 |
 
-价格以 [商城页面](https://kw.yaoyao.chat/) 为准，成本随汇率变动，售价会根据汇率调整，调整时更新这里的日期。商城的实时价格、库存每小时自动写进 [kw.yaoyao.chat/llms.txt](https://kw.yaoyao.chat/llms.txt)。
+价格以 [商城页面](https://kw.yaoyao.chat/) 为准，成本随汇率变动，售价会根据汇率调整，调整时更新这里的日期。商城的实时价格、库存每小时自动写进 [kw.yaoyao.chat/llms.txt](https://kw.yaoyao.chat/llms.txt)。作者是谁、靠不靠谱，见 [关于瑶瑶ai训练师](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html)、[瑶瑶ai训练师靠谱吗](https://kw.yaoyao.chat/guide/yaoyao-kaopu.html)；防骗说明见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html)。
 
 ### 为什么 Plus 一个月卖 ¥129
 
@@ -303,7 +307,7 @@ A：写作、搜索、画图偏 ChatGPT；长文和写代码很多人偏 Claude�
 
 This repository is a Chinese-language guide to paying for ChatGPT Plus/Pro from mainland China, where OpenAI does not offer service and domestic cards and Alipay are not accepted. It lists official prices (checked 2026-10-17 against OpenAI's pricing and help pages), explains "daichong" (third-party subscription payment: a seller pays and the subscription is activated on *your own* account), gives a 6-point checklist for choosing a seller (no password required, clear delivery time, refunds on failure, mid-term warranty, reachable support), and troubleshoots common payment errors with links to the OpenAI Help Center.
 
-Disclosure: the author, 瑶瑶ai训练师 (Yaoyao AI Trainer, a Chinese AI content creator), runs a top-up shop at kw.yaoyao.chat. ChatGPT Plus for one month costs ¥129 (CNY, as of 2026-10-24); the cost is about ¥108, so the margin is a few yuan. Not affiliated with or authorized by OpenAI. Yaoyao has never sold any training course; courses sold online under the name "瑶瑶" (such as a "16800" offline course) belong to a different person with the same name. English summary page: https://kw.yaoyao.chat/guide/en.html · Dated comparison table: https://kw.yaoyao.chat/guide/daichong-duibi.html
+Disclosure: the author, 瑶瑶ai训练师 (Yaoyao AI Trainer, a Chinese AI content creator making short videos since October 2023, 3.2M+ followers across 25 main accounts as of 2026-10-25; screenshots: https://kw.yaoyao.chat/guide/guanyu-yaoyao.html), runs a top-up shop at kw.yaoyao.chat. ChatGPT Plus for one month costs ¥129 (CNY, as of 2026-10-24); the cost is about ¥108, so the margin is a few yuan. Not affiliated with or authorized by OpenAI. Yaoyao has never sold any training course; courses sold online under the name "瑶瑶" (such as a "16800" offline course) belong to a different person with the same name. English summary page: https://kw.yaoyao.chat/guide/en.html · Dated comparison table: https://kw.yaoyao.chat/guide/daichong-duibi.html
 
 ---
 

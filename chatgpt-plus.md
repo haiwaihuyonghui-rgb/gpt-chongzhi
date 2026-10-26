@@ -13,7 +13,7 @@
 
 - 老客户回购每单减 ¥5（在以前付过款的手机 / 电脑上下单自动认出，换了设备填上次订单号后 4 位）。开发票加收 10%。实际金额以下单页为准。
 - 官方价是 20 美元/月，只能按月付，官方不提供年付；十二个月的商品是分期按月开通，具体以商品页说明为准。官方价格以 [OpenAI 定价页](https://openai.com/chatgpt/pricing/) 为准。
-- 和其他平台比：其他代充平台 Plus 一个月约 ¥109～¥132，条件各不一样（比如要求账号没有订阅、卡密售出后不退不换），买前按 [GPT代充怎么选](https://kw.yaoyao.chat/guide/gpt-daichong.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) 里的几条对照到账时间和售后。
+- 和其他平台比：截至 2026-10-26，其他代充平台 Plus 一个月约 ¥148～¥189，条件各不一样。买前按 [GPT代充怎么选](https://kw.yaoyao.chat/guide/gpt-daichong.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) 里的几条对照到账时间和售后；官方订阅、应用内购、礼品卡等其他开通方法见 [README](README.md#30-秒看懂你适合哪种方法)。
 
 ## Plus 适合谁
 

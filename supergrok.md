@@ -1,10 +1,12 @@
 # SuperGrok / Grok Premium 国内代充：一个月 ¥159、三合一说明、怎么开通（2026-10-26 更新）
 
-> 最后更新：2026-10-26 · 补上商品页硬条件（只限免费版 + 官方半价 50%），开通步骤改为复制 sso 代码，删掉和商品页矛盾的说法。
+> 最后更新：2026-10-26 · 加 xAI 官方"不授权第三方"的原文说明；补上商品页硬条件（只限免费版 + 官方半价 50%），开通步骤改为复制 sso 代码，删掉和商品页矛盾的说法。
 
 **直接回答：** xAI 从 2026 年 10 月 12 日起把 Grok 会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium 档**。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium（原 SuperGrok）一个月 ¥159**，含 Grok + X 会员 + Cursor，共用额度每周刷新。付款后在订单页填开通信息，瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通，有订阅质保。价格以商城实时页面为准。
 
 **下单前必看（2026-10-26 按 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi) 核对）：** ① 账号必须是**免费版**；② 账号要有官方的**半价（50%）优惠**。已是付费会员、或没有半价优惠的账号充不了，请先别下单。付款后要用电脑浏览器复制 grok.com 的 sso 登录代码填到订单页（手机拿不到）；不要密码、不要验证码。
+
+**官方立场（先看）：** xAI 定价页写明，订阅只通过 X Subscription Corp 官方直接销售，**不授权任何经销商或第三方卖家**，从其他渠道买的订阅"可能随时被暂停或终止"（[x.ai/pricing](https://x.ai/pricing) FAQ，2026-10-26 核对）。代充属于非官方渠道，介意的请走官方订阅；官方各档价格和其他开通方法见 [grok-premium 仓库](https://github.com/haiwaihuyonghui-rgb/grok-premium)。
 
 ## 价格和下单链接
 

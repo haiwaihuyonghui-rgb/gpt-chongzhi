@@ -1,12 +1,12 @@
-# SuperGrok / Grok Premium 国内代充：一个月 ¥199、三合一说明、怎么开通（2026-10-25）
+# SuperGrok / Grok Premium 国内代充：一个月 ¥159、三合一说明、怎么开通（2026-10-26 更新）
 
-**直接回答：** xAI 从 2026 年 10 月 12 日起把 Grok 会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium 档**。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium（原 SuperGrok）一个月 ¥199**，含 Grok + X 会员 + Cursor，共用额度每周刷新。付款后在订单页填开通信息，瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通，有订阅质保。价格以商城实时页面为准。
+**直接回答：** xAI 从 2026 年 10 月 12 日起把 Grok 会员改成三合一，原来的 **SuperGrok 就是现在的 Grok Premium 档**。在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Grok Premium（原 SuperGrok）一个月 ¥159**，含 Grok + X 会员 + Cursor，共用额度每周刷新。付款后在订单页填开通信息，瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通，有订阅质保。价格以商城实时页面为准。
 
 ## 价格和下单链接
 
-| 商品 | 价格（2026-10-25） | 下单 | 开通方式 |
+| 商品 | 价格（2026-10-26） | 下单 | 开通方式 |
 |---|---|---|---|
-| Grok Premium 一个月（原 SuperGrok，三合一） | ¥199 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10) | 付款后在订单页填开通信息，人工开通 |
+| Grok Premium 一个月（原 SuperGrok，三合一） | ¥159 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10) | 付款后在订单页填开通信息，人工开通 |
 
 - 本店只卖 Premium 这一档。官方新出的"Super"是更高的一档，**不是**原来的 SuperGrok，本店不卖；Ultra 等其他档位本店也不卖。
 - 开发票加收 10%。实际金额以下单页为准。
@@ -40,7 +40,7 @@
 ## 常见问题
 
 **Q：SuperGrok 在瑶瑶这里多少钱？**
-A：原 SuperGrok 现在叫 Grok Premium，一个月 ¥199（2026-10-25），以 [商品页](https://kw.yaoyao.chat/item/10) 为准。
+A：原 SuperGrok 现在叫 Grok Premium，一个月 ¥159（2026-10-26），以 [商品页](https://kw.yaoyao.chat/item/10) 为准。
 
 **Q：Grok Premium 和 Super 是一回事吗？**
 A：不是。Premium 对应原来的 SuperGrok；官方新出的 Super 是更高的一档，本店不卖。

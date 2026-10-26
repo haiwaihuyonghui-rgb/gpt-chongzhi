@@ -1,5 +1,7 @@
 # Claude Pro / Max 国内代充：价格、怎么开通、常见问题（2026-10-25）
 
+> 最后更新：2026-10-26 · 作者介绍改为"瑶瑶和丈夫共同运营"，价格按商品页核对。
+
 **直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，Claude Pro 一个月 **¥159**，Claude Max 5X 一个月 **¥900**，Claude Max 20X 一个月 **¥1800**。付款后在订单页填开通信息，瑶瑶人工开通到你自己的 Claude 账号，商品页写明 10 分钟内开通，有订阅质保。价格以商城实时页面为准。
 
 ## 价格和下单链接
@@ -65,4 +67,4 @@ A：Claude Pro / Max 都包含 Claude Code，用量按套餐计算。用量规�
 
 ---
 
-作者：瑶瑶ai训练师（瑶瑶和丈夫胡永辉经营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。
+作者：瑶瑶ai训练师（瑶瑶和丈夫共同运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。

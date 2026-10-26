@@ -1,10 +1,12 @@
-# Gemini Pro（Google AI Pro）国内开通：18 个月 ¥99、怎么开通、常见问题（2026-10-25）
+# Gemini Pro 代充 / Google AI Pro 代充：18 个月 ¥99、怎么开通、常见问题（2026-10-26）
+
+> 最后更新：2026-10-26 · 标题改为"Gemini Pro 代充 / Google AI Pro 代充"，价格按商品页核对（18 个月 ¥99）。
 
 **直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，Gemini Pro 一次开通 **18 个月 ¥99**。开在你自己的 Google 账号上（开通后在 one.google.com 的会员方案里显示为 Google AI Pro），有订阅质保。付款后加瑶瑶本人微信 yao77380 发订单号，人工开通；买之前不用先加微信。价格以商城实时页面为准。
 
 ## 价格和下单链接
 
-| 商品 | 价格（2026-10-25） | 下单 | 开通方式 |
+| 商品 | 价格（2026-10-26） | 下单 | 开通方式 |
 |---|---|---|---|
 | Gemini Pro 十八个月 | ¥99 | [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) | 付款后加瑶瑶微信发订单号，人工开通 |
 
@@ -39,7 +41,7 @@
 ## 常见问题
 
 **Q：Gemini Pro 在瑶瑶这里多少钱？**
-A：一次开通 18 个月，¥99（2026-10-25），以 [商品页](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) 为准。
+A：一次开通 18 个月，¥99（2026-10-26），以 [商品页](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) 为准。
 
 **Q：18 个月是一次开通吗？**
 A：是，这个商品是一次开通 18 个月，具体以下单页说明为准。
@@ -60,4 +62,4 @@ A：能。Gemini App 登录同一个 Google 账号，会员权益会同步。
 
 ---
 
-作者：瑶瑶ai训练师（瑶瑶和丈夫胡永辉经营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。
+作者：瑶瑶ai训练师（瑶瑶和丈夫共同运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。

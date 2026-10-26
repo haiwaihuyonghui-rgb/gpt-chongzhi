@@ -6,7 +6,7 @@
 
 | 商品 | 价格（2026-10-26） | 下单 | 开通方式 |
 |---|---|---|---|
-| Grok Premium 一个月（原 SuperGrok，三合一） | ¥159 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10) | 付款后在订单页填开通信息，人工开通 |
+| Grok Premium 一个月（原 SuperGrok，三合一） | ¥159 | [kw.yaoyao.chat/item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，人工开通 |
 
 - 本店只卖 Premium 这一档。官方新出的"Super"是更高的一档，**不是**原来的 SuperGrok，本店不卖；Ultra 等其他档位本店也不卖。
 - 开发票加收 10%。实际金额以下单页为准。
@@ -19,7 +19,7 @@
 - X 和 Cursor 要按官方的"合并账号（Combine accounts）"提示关联后才生效；只用 Grok 可以不管。
 - 账号上已经有没到期的 SuperGrok（或 X Premium、Cursor）订阅的，付款后先告诉瑶瑶，开通前会帮你确认怎么充。
 
-详细说明：[Grok 会员多少钱？Grok Premium（原 SuperGrok）三合一价格和开通方法](https://kw.yaoyao.chat/guide/grok-super.html)。
+详细说明：[Grok 会员多少钱？Grok Premium（原 SuperGrok）三合一价格和开通方法](https://kw.yaoyao.chat/guide/grok-super.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi)。
 
 ## 怎么开通
 
@@ -35,12 +35,12 @@
 3. **账号被封 / 停用**：不在质保范围、不退款。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)。
+售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi)。
 
 ## 常见问题
 
 **Q：SuperGrok 在瑶瑶这里多少钱？**
-A：原 SuperGrok 现在叫 Grok Premium，一个月 ¥159（2026-10-26），以 [商品页](https://kw.yaoyao.chat/item/10) 为准。
+A：原 SuperGrok 现在叫 Grok Premium，一个月 ¥159（2026-10-26），以 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi) 为准。
 
 **Q：Grok Premium 和 Super 是一回事吗？**
 A：不是。Premium 对应原来的 SuperGrok；官方新出的 Super 是更高的一档，本店不卖。
@@ -56,4 +56,4 @@ A：在瑶瑶这里开的不绑你的卡，不会从你的卡里自动扣钱。
 
 ---
 
-作者：瑶瑶ai训练师（瑶瑶和丈夫胡永辉经营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。
+作者：瑶瑶ai训练师（瑶瑶和丈夫胡永辉经营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。

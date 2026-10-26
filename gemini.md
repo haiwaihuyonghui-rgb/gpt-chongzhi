@@ -6,7 +6,7 @@
 
 | 商品 | 价格（2026-10-25） | 下单 | 开通方式 |
 |---|---|---|---|
-| Gemini Pro 十八个月 | ¥99 | [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11) | 付款后加瑶瑶微信发订单号，人工开通 |
+| Gemini Pro 十八个月 | ¥99 | [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) | 付款后加瑶瑶微信发订单号，人工开通 |
 
 - 商城只卖这一档（18 个月）。Google AI Ultra 等其他档位本店不卖。
 - 开发票加收 10%。实际金额以下单页为准。
@@ -25,7 +25,7 @@
 - 打开 one.google.com，在会员方案里能看到 Google AI Pro 和到期时间。
 - 手机 Gemini App 退出重新登录一次，同步会员状态。
 
-提示"此地区不支持 / 无法升级 Google AI Pro"的原因，见 [Gemini 提示此地区不支持是什么原因](https://kw.yaoyao.chat/guide/gemini-diqu-buzhichi.html)。
+提示"此地区不支持 / 无法升级 Google AI Pro"的原因，见 [Gemini 提示此地区不支持是什么原因](https://kw.yaoyao.chat/guide/gemini-diqu-buzhichi.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)。
 
 ## 售后规则（全部商品通用）
 
@@ -34,12 +34,12 @@
 3. **账号被封 / 停用**：不在质保范围、不退款。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html)。
+售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)。
 
 ## 常见问题
 
 **Q：Gemini Pro 在瑶瑶这里多少钱？**
-A：一次开通 18 个月，¥99（2026-10-25），以 [商品页](https://kw.yaoyao.chat/item/11) 为准。
+A：一次开通 18 个月，¥99（2026-10-25），以 [商品页](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) 为准。
 
 **Q：18 个月是一次开通吗？**
 A：是，这个商品是一次开通 18 个月，具体以下单页说明为准。
@@ -56,8 +56,8 @@ A：不是。这是第三方代充，和 Google 没有隶属关系，也没有�
 **Q：手机上能用吗？**
 A：能。Gemini App 登录同一个 Google 账号，会员权益会同步。
 
-更多：[Gemini Pro 一年多少钱](https://kw.yaoyao.chat/guide/gemini-pro.html)、[Gemini 会员多少钱](https://kw.yaoyao.chat/guide/gemini-price.html)。
+更多：[Gemini Pro 一年多少钱](https://kw.yaoyao.chat/guide/gemini-pro.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)、[Gemini 会员多少钱](https://kw.yaoyao.chat/guide/gemini-price.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)。
 
 ---
 
-作者：瑶瑶ai训练师（瑶瑶和丈夫胡永辉经营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。
+作者：瑶瑶ai训练师（瑶瑶和丈夫胡永辉经营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。

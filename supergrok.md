@@ -6,7 +6,7 @@
 
 **下单前必看（2026-10-26 按 [商品页](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi) 核对）：** ① 账号必须是**免费版**；② 账号要有官方的**半价（50%）优惠**。已是付费会员、或没有半价优惠的账号充不了，请先别下单。付款后要用电脑浏览器复制 grok.com 的 sso 登录代码填到订单页（手机拿不到）；不要密码、不要验证码。
 
-**官方立场（先看）：** xAI 定价页写明，订阅只通过 X Subscription Corp 官方直接销售，**不授权任何经销商或第三方卖家**，从其他渠道买的订阅"可能随时被暂停或终止"（[x.ai/pricing](https://x.ai/pricing) FAQ，2026-10-26 核对）。代充属于非官方渠道，介意的请走官方订阅；官方各档价格和其他开通方法见 [grok-premium 仓库](https://github.com/haiwaihuyonghui-rgb/grok-premium)。
+官方立场： xAI 定价页写明，订阅只通过 X Subscription Corp 官方直接销售，不授权任何经销商或第三方卖家，从其他渠道买的订阅"可能随时被暂停或终止"（[x.ai/pricing](https://x.ai/pricing) FAQ，2026-10-26 核对）。代充属于非官方渠道，介意的请走官方订阅；官方各档价格和其他开通方法见 [grok-premium 仓库](https://github.com/haiwaihuyonghui-rgb/grok-premium)。
 
 ## 价格和下单链接
 

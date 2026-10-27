@@ -1,6 +1,6 @@
 # GPT代充 / ChatGPT Plus 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
-> 最后更新：2026-10-27 · ChatGPT Plus 十二个月改为 ¥1439（比月付省 ¥109）；相关攻略加组织目录页链接
+> 最后更新：2026-10-27（第三次）· Grok 改为四档 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499（同一个下单页选档位）；此前：ChatGPT Plus 十二个月改为 ¥1439；相关攻略加组织目录页链接
 
 ChatGPT Plus 国内怎么开通、GPT代充靠不靠谱、没有海外信用卡怎么订阅：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚，再说代充怎么挑。事实部分只写 OpenAI 官方页面能查到的内容，每条附官方链接和核对日期。
 
@@ -273,7 +273,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 | ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Pro 一个月 | ¥159 | 人工开通（订单页只填组织 ID） | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 人工开通 | [item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
-| Grok Premium（原 SuperGrok）一个月 | ¥159 | 人工开通；只限免费版、并且有官方半价 50% 优惠的账号 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
+| Grok Premium（原 SuperGrok）一个月 | ¥239 | 人工开通；账号不是会员（免费版）就能充；同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Gemini Pro（Google AI Pro）18 个月 | ¥99 | 付款后加微信发订单号，人工开通 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 
 - 老客户回购每单减 ¥5（以前付过款的设备自动认出，换设备填上次订单号后 4 位）；开发票加收 10%；实际金额以下单页为准。
@@ -341,6 +341,7 @@ A：两家入门价都是 20 美元/月。写作、搜索、画图偏 ChatGPT；
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-27 | **价格：** curl 作者商城商品页 item/10（含 ?d=plus / super / ultra）和 llms.txt | Grok 改为四档：Plus ¥70、Premium ¥239（原 ¥159）、Super ¥749、Ultra ¥1499，同一个下单页选档位；商品页开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；本页价格表已同步 |
 | 2026-10-27 | **商城调价：** ChatGPT Plus 十二个月 ¥1548 → ¥1439（比按月买 12 次省 ¥109） | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus 一个月 ¥129、十二个月 ¥1548，其余商品见价格表），十个商品均无变动 |
 | 2026-10-26 | **价格：** 逐个 curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19，和 llms.txt 对照 | 与本页价格表一致（Plus 一个月 ¥129 … Gemini 18 个月 ¥99），无变动 |

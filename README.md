@@ -1,6 +1,6 @@
 # GPT代充 / ChatGPT Plus 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
-> 最后更新：2026-10-28 · ChatGPT Plus 十二个月改为 ¥1488（比月付省 ¥60），和一个月同一个下单页选「1 年」；此前：Grok 改为四档 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499（同一个下单页选档位）；相关攻略加组织目录页链接
+> 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前：Grok 改为四档 Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1499（同一个下单页选档位）；相关攻略加组织目录页链接
 
 ChatGPT Plus 国内怎么开通、GPT代充靠不靠谱、没有海外信用卡怎么订阅：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚，再说代充怎么挑。事实部分只写 OpenAI 官方页面能查到的内容，每条附官方链接和核对日期。
 
@@ -11,7 +11,7 @@ ChatGPT Plus 国内怎么开通、GPT代充靠不靠谱、没有海外信用卡�
 
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
-- ChatGPT Plus 十二个月 ¥1488（比月付省 ¥60） → [kw.yaoyao.chat/item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
+- ChatGPT Plus 十二个月 ¥1548（三个月 ¥387、六个月 ¥774，都是 ¥129 × 月数，同一个下单页选时长） → [kw.yaoyao.chat/item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
 
 你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=github)
@@ -269,7 +269,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 | 商品 | 价格 | 开通方式 | 下单 |
 |---|---|---|---|
 | ChatGPT Plus 一个月 | ¥129 | 付款后页面显示卡密，到 cz.yaoyao.chat 自助开通，一般 1～3 分钟 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
-| ChatGPT Plus 十二个月 | ¥1488（比月付省 ¥60） | 付款后在订单页填开通信息，人工开通 | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
+| ChatGPT Plus 十二个月 | ¥1548（¥129 × 12） | 付款后在订单页填开通信息，人工开通 | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Pro 一个月 | ¥159 | 人工开通（订单页只填组织 ID） | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 人工开通 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
@@ -341,7 +341,8 @@ A：两家入门价都是 20 美元/月。写作、搜索、画图偏 ChatGPT；
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
-| 2026-10-28 | **商城调价：** ChatGPT Plus 十二个月改为 ¥1488（比按月买 12 次省 ¥60），并入一个月的下单页（item/5 选「1 年」，旧 item/7 链接自动跳转）；三个月 ¥381、六个月 ¥750 | 快速购买、价格表已同步；其余商品价格不变 |
+| 2026-10-28 | **商城调价：** ChatGPT Plus 三个月 ¥381 → ¥387、六个月 ¥750 → ¥774、十二个月 ¥1488 → ¥1548，统一按一个月 ¥129 × 月数计价 | 快速购买、价格表已同步；其余商品价格不变 |
+| 2026-10-28 | **商城调价：** ChatGPT Plus 十二个月改为 ¥1488，并入一个月的下单页（item/5 选「1 年」，旧 item/7 链接自动跳转）；三个月 ¥381、六个月 ¥750 | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/10（含 ?d=plus / super / ultra）和 llms.txt | Grok 改为四档：Plus ¥70、Premium ¥239（原 ¥159）、Super ¥749、Ultra ¥1499，同一个下单页选档位；商品页开通条件改为"账号不是会员（免费版）就能充"，不再要求半价优惠；本页价格表已同步 |
 | 2026-10-27 | **商城调价：** ChatGPT Plus 十二个月 ¥1548 → ¥1439 | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus 一个月 ¥129、十二个月 ¥1548，其余商品见价格表），十个商品均无变动 |

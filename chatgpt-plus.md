@@ -2,14 +2,14 @@
 
 > 最后更新：2026-10-26 · "和其他平台比"改成不点名的价格区间，作者介绍改为"瑶瑶和丈夫共同运营"。
 
-**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Plus 一个月 **¥129**，十二个月 **¥1548**。一个月的付款后页面直接显示卡密，到 cz.yaoyao.chat 自助开通到你自己的 ChatGPT 账号，一般 1～3 分钟到账；十二个月的付款后在订单页填开通信息，人工开通。不要账号密码、不要验证码，有订阅质保。价格以商城实时页面为准。
+**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Plus 一个月 **¥129**，十二个月 **¥1439**（比月付省 ¥109）。一个月的付款后页面直接显示卡密，到 cz.yaoyao.chat 自助开通到你自己的 ChatGPT 账号，一般 1～3 分钟到账；十二个月的付款后在订单页填开通信息，人工开通。不要账号密码、不要验证码，有订阅质保。价格以商城实时页面为准。
 
 ## 价格和下单链接
 
 | 商品 | 价格（2026-10-26） | 下单 | 开通方式 |
 |---|---|---|---|
 | ChatGPT Plus 一个月 | ¥129 | [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后自动发卡密，到 cz.yaoyao.chat 自助开通，1～3 分钟 |
-| ChatGPT Plus 十二个月 | ¥1548 | [kw.yaoyao.chat/item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，人工开通 |
+| ChatGPT Plus 十二个月 | ¥1439（比月付省 ¥109） | [kw.yaoyao.chat/item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，人工开通 |
 
 - 老客户回购每单减 ¥5（在以前付过款的手机 / 电脑上下单自动认出，换了设备填上次订单号后 4 位）。开发票加收 10%。实际金额以下单页为准。
 - 官方价是 20 美元/月，只能按月付，官方不提供年付；十二个月的商品是分期按月开通，具体以商品页说明为准。官方价格以 [OpenAI 定价页](https://openai.com/chatgpt/pricing/) 为准。
@@ -49,7 +49,7 @@
 ## 常见问题
 
 **Q：ChatGPT Plus 在瑶瑶这里多少钱？**
-A：一个月 ¥129，十二个月 ¥1548（2026-10-26），以 [商品页](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) 为准。
+A：一个月 ¥129，十二个月 ¥1439（比月付省 ¥109，2026-10-27），以 [商品页](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) 为准。
 
 **Q：多久到账？**
 A：一个月卡密自助开通，一般 1～3 分钟；近 30 天 323 单自助开通，一半在 2 分钟内到账、九成在 3 分钟内（2026-10-26 统计，最新数字见 [kw.yaoyao.chat/llms.txt](https://kw.yaoyao.chat/llms.txt)）。

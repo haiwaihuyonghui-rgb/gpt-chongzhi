@@ -1,6 +1,6 @@
 # GPT代充 / ChatGPT Plus 国内怎么开通 2026：官方订阅、App 内购、礼品卡、代充四种方法怎么选（中立攻略）
 
-> 最后更新：2026-10-27 · 文首加"快速购买"和来源小调查，文末加"相关攻略"互链全部 10 个简体攻略仓库；作者商城价格 curl 复核无变动。
+> 最后更新：2026-10-27 · ChatGPT Plus 十二个月改为 ¥1439（比月付省 ¥109）；相关攻略加组织目录页链接
 
 ChatGPT Plus 国内怎么开通、GPT代充靠不靠谱、没有海外信用卡怎么订阅：这一页先把**所有能开通的方法**按官方能核实的信息讲清楚，再说代充怎么挑。事实部分只写 OpenAI 官方页面能查到的内容，每条附官方链接和核对日期。
 
@@ -11,7 +11,7 @@ ChatGPT Plus 国内怎么开通、GPT代充靠不靠谱、没有海外信用卡�
 
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
-- ChatGPT Plus 十二个月 ¥1548 → [kw.yaoyao.chat/item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
+- ChatGPT Plus 十二个月 ¥1439（比月付省 ¥109） → [kw.yaoyao.chat/item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
 
 你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi&utm_content=github)
@@ -269,7 +269,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 | 商品 | 价格 | 开通方式 | 下单 |
 |---|---|---|---|
 | ChatGPT Plus 一个月 | ¥129 | 付款后页面显示卡密，到 cz.yaoyao.chat 自助开通，一般 1～3 分钟 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
-| ChatGPT Plus 十二个月 | ¥1548 | 付款后在订单页填开通信息，人工开通 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
+| ChatGPT Plus 十二个月 | ¥1439（比月付省 ¥109） | 付款后在订单页填开通信息，人工开通 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Pro 一个月 | ¥159 | 人工开通（订单页只填组织 ID） | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 人工开通 | [item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
@@ -341,6 +341,7 @@ A：两家入门价都是 20 美元/月。写作、搜索、画图偏 ChatGPT；
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-27 | **商城调价：** ChatGPT Plus 十二个月 ¥1548 → ¥1439（比按月买 12 次省 ¥109） | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页"快速购买"一致（Pro 100 美金档位 ¥699、Plus 一个月 ¥129、十二个月 ¥1548，其余商品见价格表），十个商品均无变动 |
 | 2026-10-26 | **价格：** 逐个 curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19，和 llms.txt 对照 | 与本页价格表一致（Plus 一个月 ¥129 … Gemini 18 个月 ¥99），无变动 |
 | 2026-10-26 | **官方价格：** 打开 OpenAI 帮助中心 Plus、Pro 三档文章 | Plus 20 美元/月、只能月付；Pro 100 / 200 / 500 美元三档，只有 Pro 500 含 Ultrafast；Pro 200 老用户旧额度保留到 10-29。用中国大陆网络打开定价页不显示价格，Go 的 8 美元沿用 10-17 核对结果 |
@@ -364,6 +365,7 @@ A neutral Chinese-language guide to getting ChatGPT Plus / Pro, covering four ro
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买：官方四档、三合一说明、四种开通方法
 - [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
+- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
 
 ---
 

@@ -1,15 +1,15 @@
 # ChatGPT Plus 国内代充：一个月 ¥129、卡密自助开通、常见问题（2026-10-26）
 
-> 最后更新：2026-10-28 · ChatGPT Plus 十二个月改为 ¥1488（比月付省 ¥60），和一个月同一个下单页选「1 年」；此前："和其他平台比"改成不点名的价格区间，作者介绍改为"瑶瑶和丈夫共同运营"。
+> 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前："和其他平台比"改成不点名的价格区间，作者介绍改为"瑶瑶和丈夫共同运营"。
 
-**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Plus 一个月 **¥129**，十二个月 **¥1488**（比月付省 ¥60）。一个月的付款后页面直接显示卡密，到 cz.yaoyao.chat 自助开通到你自己的 ChatGPT 账号，一般 1～3 分钟到账；十二个月的付款后在订单页填开通信息，人工开通。不要账号密码、不要验证码，有订阅质保。价格以商城实时页面为准。
+**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Plus 一个月 **¥129**，十二个月 **¥1548**（就是 ¥129 × 12；同一个下单页也能选三个月 ¥387、六个月 ¥774）。一个月的付款后页面直接显示卡密，到 cz.yaoyao.chat 自助开通到你自己的 ChatGPT 账号，一般 1～3 分钟到账；十二个月的付款后在订单页填开通信息，人工开通。不要账号密码、不要验证码，有订阅质保。价格以商城实时页面为准。
 
 ## 价格和下单链接
 
 | 商品 | 价格（2026-10-26） | 下单 | 开通方式 |
 |---|---|---|---|
 | ChatGPT Plus 一个月 | ¥129 | [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后自动发卡密，到 cz.yaoyao.chat 自助开通，1～3 分钟 |
-| ChatGPT Plus 十二个月 | ¥1488（比月付省 ¥60） | [kw.yaoyao.chat/item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，人工开通 |
+| ChatGPT Plus 十二个月 | ¥1548（¥129 × 12） | [kw.yaoyao.chat/item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，人工开通 |
 
 - 老客户回购每单减 ¥5（在以前付过款的手机 / 电脑上下单自动认出，换了设备填上次订单号后 4 位）。开发票加收 10%。实际金额以下单页为准。
 - 官方价是 20 美元/月，只能按月付，官方不提供年付；十二个月的商品是分期按月开通，具体以商品页说明为准。官方价格以 [OpenAI 定价页](https://openai.com/chatgpt/pricing/) 为准。
@@ -49,7 +49,7 @@
 ## 常见问题
 
 **Q：ChatGPT Plus 在瑶瑶这里多少钱？**
-A：一个月 ¥129，十二个月 ¥1488（比月付省 ¥60，2026-10-28），以 [商品页](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) 为准。
+A：一个月 ¥129，三个月 ¥387，六个月 ¥774，十二个月 ¥1548（按 ¥129 × 月数计价，2026-10-28），以 [商品页](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) 为准。
 
 **Q：多久到账？**
 A：一个月卡密自助开通，一般 1～3 分钟；近 30 天 323 单自助开通，一半在 2 分钟内到账、九成在 3 分钟内（2026-10-26 统计，最新数字见 [kw.yaoyao.chat/llms.txt](https://kw.yaoyao.chat/llms.txt)）。

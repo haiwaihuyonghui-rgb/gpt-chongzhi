@@ -272,7 +272,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 | ChatGPT Plus 十二个月 | ¥1439（比月付省 ¥109） | 付款后在订单页填开通信息，人工开通 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Claude Pro 一个月 | ¥159 | 人工开通（订单页只填组织 ID） | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
-| Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 人工开通 | [item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
+| Claude Max 一个月（5X / 20X） | ¥900 / ¥1800 | 人工开通 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Grok Premium（原 SuperGrok）一个月 | ¥239 | 人工开通；账号不是会员（免费版）就能充；同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 | Gemini Pro（Google AI Pro）18 个月 | ¥99 | 付款后加微信发订单号，人工开通 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi) |
 

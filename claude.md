@@ -9,8 +9,8 @@
 | 商品 | 价格（2026-10-25） | 下单 | 开通方式 |
 |---|---|---|---|
 | Claude Pro 一个月 | ¥159 | [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，人工开通 |
-| Claude Max 5X 一个月 | ¥900 | [kw.yaoyao.chat/item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 同上 |
-| Claude Max 20X 一个月 | ¥1800 | [kw.yaoyao.chat/item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 同上 |
+| Claude Max 5X 一个月 | ¥900 | [kw.yaoyao.chat/item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 同上 |
+| Claude Max 20X 一个月 | ¥1800 | [kw.yaoyao.chat/item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 同上 |
 
 - 开发票加收 10%。实际金额以下单页为准。
 - 官方价格以 [Anthropic 定价页](https://www.anthropic.com/pricing) 为准。

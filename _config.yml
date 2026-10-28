@@ -1,6 +1,33 @@
-title: GPT代充 / ChatGPT Plus 国内怎么开通（中立攻略）
-description: 官方网页订阅、苹果 / 谷歌应用内购、礼品卡、代充四种方法的价格、条件、优缺点和风险，附官方链接和复测记录。整理：瑶瑶ai训练师（作者自营代充商城，文末如实披露）。
+title: 'GPT代充 / GPT充值｜ChatGPT Plus 国内充值指南（2026）'
+description: 'ChatGPT Plus 代充怎么选、官方价格、官网订阅 / 应用内购 / 礼品卡 / 代充四种方法和 12 个常见报错，附官方链接与复测记录。整理：瑶瑶ai训练师（作者自营代充商城，文中如实披露），非官方。'
 lang: zh-CN
 theme: jekyll-theme-cayman
 exclude:
   - LICENSE
+
+# 2026-10-28：正本是 GitHub 仓库页，网页版每页的 canonical 指回对应的 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi"
+  - scope:
+      path: "chatgpt-plus.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/chatgpt-plus.md"
+  - scope:
+      path: "chatgpt-pro.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/chatgpt-pro.md"
+  - scope:
+      path: "claude.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/claude.md"
+  - scope:
+      path: "gemini.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/gemini.md"
+  - scope:
+      path: "supergrok.md"
+    values:
+      canonical_url: "https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi/blob/main/supergrok.md"

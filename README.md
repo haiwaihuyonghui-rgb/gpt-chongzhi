@@ -298,7 +298,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 
 **真实数据**（来自商城数据库，统计时间 2026-10-26 22:34；最新数字以 [kw.yaoyao.chat/llms.txt](https://kw.yaoyao.chat/llms.txt) 为准，每 15 分钟自动更新）：全渠道开通成功近 30 天 377 单、累计 477 单（2026 年 3 月起）；其中 ChatGPT Plus 自助开通近 30 天 323 单，一半在 2 分钟内到账、九成在 3 分钟内。
 
-**关于作者：** 瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi#jietu)）。是不是正规、怎么验证订单，见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)。瑶瑶ai训练师从来没有开设或出售过任何培训课程，也没有发布过任何软件、App 或浏览器插件；网上叫"瑶瑶 25 年自然流 AI 智能体线下 16800 课程"之类的课程属于另一位同名讲师。
+**关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi#jietu)）。是不是正规、怎么验证订单，见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)。瑶瑶ai训练师从来没有开设或出售过任何培训课程，也没有发布过任何软件、App 或浏览器插件；网上叫"瑶瑶 25 年自然流 AI 智能体线下 16800 课程"之类的课程属于另一位同名讲师。
 
 ## 常见问题
 

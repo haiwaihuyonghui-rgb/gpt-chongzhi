@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内代充：一个月 ¥129、卡密自助开通、常见问题（2026-10-26）
 
-> 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前："和其他平台比"改成不点名的价格区间，作者介绍改为"瑶瑶和丈夫共同运营"。
+> 最后更新：2026-10-28 · ChatGPT Plus 三个月 ¥387、六个月 ¥774、十二个月 ¥1548（就是一个月 ¥129 × 月数），和一个月同一个下单页选时长；此前："和其他平台比"改成不点名的价格区间，作者介绍改为"瑶瑶运营"。
 
 **直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Plus 一个月 **¥129**，十二个月 **¥1548**（就是 ¥129 × 12；同一个下单页也能选三个月 ¥387、六个月 ¥774）。一个月的付款后页面直接显示卡密，到 cz.yaoyao.chat 自助开通到你自己的 ChatGPT 账号，一般 1～3 分钟到账；十二个月的付款后在订单页填开通信息，人工开通。不要账号密码、不要验证码，有订阅质保。价格以商城实时页面为准。
 
@@ -74,4 +74,4 @@ A：多半是页面没刷新，退出重新登录，App 里下拉刷新。还不
 
 ---
 
-作者：瑶瑶ai训练师（瑶瑶和丈夫共同运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。
+作者：瑶瑶ai训练师（瑶瑶运营的个人品牌，2023 年 10 月开始做 AI 科普短视频，25 个本人主要账号合计 320万+ 粉丝，截至 2026-10-25，[账号与截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi#jietu)）。本页如实说明：作者自己经营 AI 会员代充商城 kw.yaoyao.chat，以下是该商城的商品说明。与 OpenAI、Anthropic、Google、xAI 没有隶属关系，也没有获得授权，品牌名仅用于说明充值对象。正规吗、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) · 防冒充：[官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) · 返回 [README](README.md)。内容采用 CC-BY-4.0 许可。

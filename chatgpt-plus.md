@@ -11,7 +11,7 @@
 | ChatGPT Plus 一个月 | ¥129 | [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后自动发卡密，到 cz.yaoyao.chat 自助开通，平均 2 分钟到账 |
 | ChatGPT Plus 十二个月 | ¥1548（¥129 × 12） | [kw.yaoyao.chat/item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi) | 付款后在订单页填开通信息，平均 2 分钟到账 |
 
-- 老客户回购每单减 ¥5（在以前付过款的手机 / 电脑上下单自动认出，换了设备填上次订单号后 4 位）。开发票加收 10%。实际金额以下单页为准。
+- 老客户回购每单自动减 ¥5（下单时填之前下单用的邮箱）。可开发票、可对公转账（票种开票前在企业微信确认）。实际金额以下单页为准。
 - 官方价是 20 美元/月，只能按月付，官方不提供年付；十二个月的商品是分期按月开通，具体以商品页说明为准。官方价格以 [OpenAI 定价页](https://openai.com/chatgpt/pricing/) 为准。
 - 和其他平台比：截至 2026-10-26，其他代充平台 Plus 一个月约 ¥148～¥189，条件各不一样。买前按 README 里的 [6 个判断点](README.md#怎么判断代充靠不靠谱6-个判断点) 对照到账时间和售后；官方订阅、应用内购、礼品卡等其他开通方法见 [README](README.md#30-秒看懂你适合哪种方法)。
 
@@ -44,7 +44,7 @@
 3. **账号被封 / 停用**：不在质保范围、不退款，可协助重新注册一个账号。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi)。
+售后只找[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi)（扫码添加，全天 24 小时），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=chatgpt-plus&utm_campaign=gpt-chongzhi)。
 
 ## 常见问题
 

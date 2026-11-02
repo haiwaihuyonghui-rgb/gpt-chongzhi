@@ -2,7 +2,7 @@
 
 > 最后更新：2026-10-28 · 自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
-**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，Gemini Pro 一次开通 **18 个月 ¥99**。开在你自己的 Google 账号上（开通后在 one.google.com 的会员方案里显示为 Google AI Pro），有订阅质保。付款后加瑶瑶本人微信 yao77380 发订单号，平均 2 分钟开通好；买之前不用先加微信。价格以商城实时页面为准。
+**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，Gemini Pro 一次开通 **18 个月 ¥99**。开在你自己的 Google 账号上（开通后在 one.google.com 的会员方案里显示为 Google AI Pro），有订阅质保。付款后加瑶瑶本人企业微信发订单号，平均 2 分钟开通好；买之前不用先加微信。价格以商城实时页面为准。
 
 ## 价格和下单链接
 
@@ -11,14 +11,14 @@
 | Gemini Pro 十八个月 | ¥99 | [kw.yaoyao.chat/item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi) | 付款后加瑶瑶微信发订单号，平均 2 分钟开通好 |
 
 - 商城只卖这一档（18 个月）。Google AI Ultra 等其他档位本店不卖。
-- 开发票加收 10%。实际金额以下单页为准。
+- 可开发票、可对公转账（票种开票前在企业微信确认）。实际金额以下单页为准。
 - 官方方案和权益以 [Google One](https://one.google.com/about/ai-premium) 页面为准。
 
 ## 怎么开通
 
 1. 准备一个能正常登录的 Google 账号（能打开 Gmail 或 gemini.google.com 并登录）。建议先绑定手机号或备用邮箱、开启两步验证。
 2. 在 kw.yaoyao.chat 下单 Gemini Pro 十八个月，用支付宝或微信付款。
-3. 加瑶瑶本人微信 **yao77380**（加不上加 yym77288），发订单号。
+3. 扫码添加[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)，发订单号。
 4. 按瑶瑶的指引完成开通，开在你自己的账号上。
 
 ## 开通后怎么确认生效
@@ -35,7 +35,7 @@
 3. **账号被封 / 停用**：不在质保范围、不退款。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)。
+售后只找[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)（扫码添加，全天 24 小时），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=gemini&utm_campaign=gpt-chongzhi)。
 
 ## 常见问题
 

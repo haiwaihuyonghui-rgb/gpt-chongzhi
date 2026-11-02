@@ -18,7 +18,7 @@
 | Grok Ultra 一个月（三合一） | ¥1499 | kw.yaoyao.chat/item/10?d=ultra（同一个下单页） | 付款后在订单页填开通信息，平均 2 分钟到账 |
 
 - 四档在同一个下单页用「选择档位」切换，默认 Premium。官方新出的"Super"是更高的一档，**不是**原来的 SuperGrok。
-- 开发票加收 10%。实际金额以下单页为准。
+- 可开发票、可对公转账（票种开票前在企业微信确认）。实际金额以下单页为准。
 - 官方档位和价格以 [x.ai/pricing](https://x.ai/pricing) 为准。
 
 ## 三合一是什么意思
@@ -44,7 +44,7 @@
 3. **账号被封 / 停用**：不在质保范围、不退款。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi)。
+售后只找[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi)（扫码添加，全天 24 小时），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=supergrok&utm_campaign=gpt-chongzhi)。
 
 ## 常见问题
 

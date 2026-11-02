@@ -12,7 +12,7 @@
 | Claude Max 5X 一个月 | ¥900 | [kw.yaoyao.chat/item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 同上 |
 | Claude Max 20X 一个月 | ¥1800 | [kw.yaoyao.chat/item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi) | 同上 |
 
-- 开发票加收 10%。实际金额以下单页为准。
+- 可开发票、可对公转账（票种开票前在企业微信确认）。实际金额以下单页为准。
 - 官方价格以 [Anthropic 定价页](https://www.anthropic.com/pricing) 为准。
 
 ## Pro 和 Max 怎么选
@@ -38,7 +38,7 @@
 3. **账号被封 / 停用**：不在质保范围、不退款。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi)。
+售后只找[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi)（扫码添加，全天 24 小时），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=claude&utm_campaign=gpt-chongzhi)。
 
 Claude 账号被停用的，可以把订单号和停用通知截图发到微信，协助按 Anthropic 官方渠道申诉，能否恢复以官方结果为准。
 

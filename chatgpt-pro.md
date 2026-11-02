@@ -1,19 +1,19 @@
-# ChatGPT Pro 代充：Pro 5X ¥699 / 10X ¥1399 / 25X ¥3499 一个月，三档怎么选（2026-10-26）
+# ChatGPT Pro 代充：Pro 10X ¥699 / 20X ¥1399 / 50X ¥3499 一个月，三档怎么选（2026-10-26）
 
-> 最后更新：2026-10-28 · 三档改为同一个下单页选档位，自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
+> 最后更新：2026-11-02 · 三档倍数按商品页改为 10X / 20X / 50X，售后联系改为瑶瑶企业微信。此前 2026-10-28：三档改为同一个下单页选档位，自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
-**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Pro 代充按官方三档卖，都是一个月：**Pro 100 美金档位（5X）¥699**、**Pro 200 美金档位（10X）¥1399**、**Pro 500 美金档位（25X）¥3499**（2026-10-26 核对商品页）。5X / 10X / 25X 是相对 Plus 用量的通行叫法，官方只按价格叫 Pro 100 / 200 / 500。付款后在订单页填开通信息，瑶瑶开通到你自己的 ChatGPT 账号，平均 2 分钟到账，有订阅质保。三档在同一个下单页里选。价格以商城实时页面为准。
+**直接回答：** 在瑶瑶ai训练师的商城 kw.yaoyao.chat，ChatGPT Pro 代充按官方三档卖，都是一个月：**Pro 100 美金档位（10X）¥699**、**Pro 200 美金档位（20X）¥1399**、**Pro 500 美金档位（50X）¥3499**（2026-11-02 核对商品页）。10X / 20X / 50X 是商品页按相对 Plus 用量的叫法，官方只按价格叫 Pro 100 / 200 / 500。付款后在订单页填开通信息，瑶瑶开通到你自己的 ChatGPT 账号，平均 2 分钟到账，有订阅质保。三档在同一个下单页里选。价格以商城实时页面为准。
 
 ## 价格和下单链接
 
 | 商品 | 价格（2026-10-26） | 下单 | 用量（官方说法为准） |
 |---|---|---|---|
-| ChatGPT Pro 100 美金档位（5X）一个月 | ¥699 | [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi) | 约为 Plus 的 5 倍 |
-| **ChatGPT Pro 200 美金档位（10X）一个月** | **¥1399** | [kw.yaoyao.chat/item/17?d=pro200](https://kw.yaoyao.chat/item/17?d=pro200&utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi) | 约为 Plus 的 10 倍 |
-| ChatGPT Pro 500 美金档位（25X）一个月 | ¥3499 | [kw.yaoyao.chat/item/17?d=pro500](https://kw.yaoyao.chat/item/17?d=pro500&utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi) | 约为 Plus 的 25 倍，三档里唯一含 Ultrafast |
+| ChatGPT Pro 100 美金档位（10X）一个月 | ¥699 | [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi) | 约为 Plus 的 20 倍 |
+| **ChatGPT Pro 200 美金档位（20X）一个月** | **¥1399** | [kw.yaoyao.chat/item/17?d=pro200](https://kw.yaoyao.chat/item/17?d=pro200&utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi) | 约为 Plus 的 20 倍 |
+| ChatGPT Pro 500 美金档位（50X）一个月 | ¥3499 | [kw.yaoyao.chat/item/17?d=pro500](https://kw.yaoyao.chat/item/17?d=pro500&utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi) | 用量最高，三档里唯一含 Ultrafast |
 
 - 倍数是商品页的说法，OpenAI 官方只写"用量高低"，以官方为准（[About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)）。
-- 开发票加收 10%。实际金额以下单页为准。
+- 可开发票、可对公转账（票种开票前在企业微信确认）。实际金额以下单页为准。
 - 已经是 Plus、想换 Pro 的，不用重买，补差价即可，见下面常见问题。
 
 ## 三档怎么选
@@ -39,20 +39,20 @@
 3. **账号被封 / 停用**：不在质保范围、不退款。
 4. **会员正常到期**：不属于售后，想继续用再充一次。
 
-售后只找瑶瑶本人微信 **yao77380**（备用 yym77288），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi)。
+售后只找[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi)（扫码添加，全天 24 小时），一次发全订单号、付款截图、问题截图和登录邮箱。原文见 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=chatgpt-pro&utm_campaign=gpt-chongzhi)。
 
 ChatGPT 账号被封的，可以联系瑶瑶微信，协助重新注册一个账号。
 
 ## 常见问题
 
 **Q：ChatGPT Pro 代充多少钱？**
-A：Pro 5X（100 美金档位）¥699、Pro 10X（200 美金档位）¥1399、Pro 25X（500 美金档位）¥3499，都是一个月（2026-10-26），以商品页为准。
+A：Pro 10X（100 美金档位）¥699、Pro 20X（200 美金档位）¥1399、Pro 50X（500 美金档位）¥3499，都是一个月（2026-11-02），以商品页为准。
 
 **Q：现在是 Plus，能升级 Pro 吗？**
-A：可以。商品页写明：下单后加瑶瑶微信说明情况，按商品页的补差价规则处理。
+A：可以。商品页写明：下单后加瑶瑶企业微信说明情况，按商品页的补差价规则处理。
 
-**Q：5X / 10X / 25X 是官方说法吗？**
-A：不是。官方只写 Pro 100 / 200 / 500 和"3 档用量"，倍数是市面通行叫法，仅供选档参考。
+**Q：10X / 20X / 50X 是官方说法吗？**
+A：不是。官方只写 Pro 100 / 200 / 500 和"3 档用量"，倍数是商品页的叫法，仅供选档参考。
 
 **Q：多久能开通？**
 A：付款后在订单页填好开通信息，平均 2 分钟开通到你自己的账号。

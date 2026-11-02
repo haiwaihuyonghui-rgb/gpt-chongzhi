@@ -39,7 +39,7 @@
 
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
-- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
+- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服全天 24 小时
 <!-- 快速购买:结束 -->
 
 更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
@@ -280,7 +280,7 @@ Pro 三档的官方区别和怎么选，见同一作者的 [chatgpt-pro-100](htt
 | Grok Premium（原 SuperGrok）一个月 | ¥239 | 付款后在订单页填开通信息，平均 2 分钟到账；账号不是会员（免费版）就能充；同一个下单页另有 Plus ¥70 / Super ¥749 / Ultra ¥1499 |
 | Gemini Pro（Google AI Pro）18 个月 | ¥99 | 付款后加微信发订单号，平均 2 分钟开通好，开到你自己的 Google 账号 |
 
-- 老客户回购每单减 ¥5（以前付过款的设备自动认出，换设备填上次订单号后 4 位）；开发票加收 10%；实际金额以下单页为准。
+- 老客户回购每单自动减 ¥5（下单时填之前下单用的邮箱）；可开发票、可对公转账（票种开票前确认）；实际金额以下单页为准。
 - 付款方式：支付宝、微信。
 - 会员开到你自己的账号上；不要账号密码、不要验证码；不卖成品号、不拼车。
 - 各商品详细说明：[ChatGPT Plus](chatgpt-plus.md) · [ChatGPT Pro](chatgpt-pro.md) · [Claude Pro / Max](claude.md) · [Grok Premium](supergrok.md) · [Gemini Pro](gemini.md)
@@ -295,7 +295,7 @@ Pro 三档的官方区别和怎么选，见同一作者的 [chatgpt-pro-100](htt
 
 会员正常到期不属于售后。
 
-**客服：** 只找瑶瑶本人微信 **yao77380**（加不上加备用号 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们；网址只有 `www.yaoyao.chat`、`kw.yaoyao.chat`、`cz.yaoyao.chat` 三个（官网上的《官方账号与防骗说明》有完整名单）。
+**客服：** 只找[瑶瑶本人的企业微信](https://kw.yaoyao.chat/wecom?utm_source=github&utm_medium=readme&utm_campaign=gpt-chongzhi)（扫码添加），全天 24 小时。主动加你、自称"客服 / 助理"的不是我们；网址只有 `www.yaoyao.chat`、`kw.yaoyao.chat`、`cz.yaoyao.chat` 三个（官网上的《官方账号与防骗说明》有完整名单）。
 
 **真实数据**（来自商城数据库，统计时间 2026-10-26 22:34；最新数字见商城的 kw.yaoyao.chat/llms.txt，每 15 分钟自动更新）：全渠道开通成功近 30 天 377 单、累计 477 单（2026 年 3 月起）；其中 ChatGPT Plus 自助开通近 30 天 323 单，一半在 2 分钟内到账、九成在 3 分钟内。
 
@@ -344,6 +344,7 @@ A：两家入门价都是 20 美元/月。写作、搜索、画图偏 ChatGPT；
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-11-02 | **价格和售后信息：** 对照作者商城商品页、llms.txt、售后页和《官方账号与防骗说明》 | 价格无变动；客服改为瑶瑶企业微信、全天 24 小时；老客户回购改为填之前下单的邮箱自动减 ¥5；发票改为"可开、可对公，票种开票前确认"（商城已不写加收 10%） |
 | 2026-10-28 | **价格：** 按作者商城事实卡 yy-facts.json（每 15 分钟从商城数据库生成）核对全部商品 | 与本页"快速购买"和价格表一致，无变动；开通时间统一写"平均 2 分钟" |
 | 2026-10-28 | **商城调价：** ChatGPT Plus 三个月 ¥381 → ¥387、六个月 ¥750 → ¥774、十二个月 ¥1488 → ¥1548，统一按一个月 ¥129 × 月数计价 | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-28 | **商城调价：** ChatGPT Plus 十二个月改为 ¥1488，并入一个月的下单页（item/5 选「1 年」，旧 item/7 链接自动跳转）；三个月 ¥381、六个月 ¥750 | 快速购买、价格表已同步；其余商品价格不变 |
